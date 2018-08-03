@@ -1,0 +1,48 @@
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=38:60:E2:C6:FC:68, mScanRecord=ScanRecord [mAdvertiseFlags=-1, mServiceUuids=null, mManufacturerSpecificData={6=[1, 9, 32, 2, 60, 18, -57, 32, 1, 77, -36, 42, -98, 87, 9, 3, 59, 42, -106, 28, 10, -92, 109, 20, 107, -26, -103]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-46, mTimestampNanos=11045464369626}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=38:8B:A9:C9:D0:DB, mScanRecord=ScanRecord [mAdvertiseFlags=-1, mServiceUuids=null, mManufacturerSpecificData={6=[1, 9, 32, 2, 90, -48, 80, -44, -17, -8, -5, -116, 27, -20, -88, -83, 37, 40, 96, 18, -51, 49, -85, -128, -95, 33, 6]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-46, mTimestampNanos=11045638624997}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[16, 5, 10, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-25, mTimestampNanos=11045651839108}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=00:1E:C0:34:66:DE, mScanRecord=ScanRecord [mAdvertiseFlags=6, mServiceUuids=[00035b03-58e6-07dd-021a-08123a000300], mManufacturerSpecificData={}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=BC123456], mRssi=-37, mTimestampNanos=11045705946774}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 10, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-26, mTimestampNanos=11045712996335}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=38:60:E2:C6:FC:68, mScanRecord=ScanRecord [mAdvertiseFlags=-1, mServiceUuids=null, mManufacturerSpecificData={6=[1, 9, 32, 2, 60, 18, -57, 32, 1, 77, -36, 42, -98, 87, 9, 3, 59, 42, -106, 28, 10, -92, 109, 20, 107, -26, -103]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-46, mTimestampNanos=11045771040768}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-28, mTimestampNanos=11045814772458}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-27, mTimestampNanos=11045946547360}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-24, mTimestampNanos=11046012312741}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=00:1E:C0:34:66:DE, mScanRecord=ScanRecord [mAdvertiseFlags=6, mServiceUuids=[00035b03-58e6-07dd-021a-08123a000300], mManufacturerSpecificData={}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=BC123456], mRssi=-32, mTimestampNanos=11046124922604}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=38:60:E2:C6:FC:68, mScanRecord=ScanRecord [mAdvertiseFlags=-1, mServiceUuids=null, mManufacturerSpecificData={6=[1, 9, 32, 2, 60, 18, -57, 32, 1, 77, -36, 42, -98, 87, 9, 3, 59, 42, -106, 28, 10, -92, 109, 20, 107, -26, -103]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-46, mTimestampNanos=11046187788815}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-26, mTimestampNanos=11046300185055}
+
+01-08-2018_08:12:45   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-25, mTimestampNanos=11046362257809}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-26, mTimestampNanos=11046490218014}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=38:60:E2:C6:FC:68, mScanRecord=ScanRecord [mAdvertiseFlags=-1, mServiceUuids=null, mManufacturerSpecificData={6=[1, 9, 32, 2, 60, 18, -57, 32, 1, 77, -36, 42, -98, 87, 9, 3, 59, 42, -106, 28, 10, -92, 109, 20, 107, -26, -103]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-37, mTimestampNanos=11046599013180}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=00:1E:C0:34:66:DE, mScanRecord=ScanRecord [mAdvertiseFlags=6, mServiceUuids=[00035b03-58e6-07dd-021a-08123a000300], mManufacturerSpecificData={}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=BC123456], mRssi=-33, mTimestampNanos=11046660567135}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-26, mTimestampNanos=11046717818112}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=38:60:E2:C6:FC:68, mScanRecord=ScanRecord [mAdvertiseFlags=-1, mServiceUuids=null, mManufacturerSpecificData={6=[1, 9, 32, 2, 60, 18, -57, 32, 1, 77, -36, 42, -98, 87, 9, 3, 59, 42, -106, 28, 10, -92, 109, 20, 107, -26, -103]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-46, mTimestampNanos=11047015944333}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-27, mTimestampNanos=11047186079831}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=00:1E:C0:34:66:DE, mScanRecord=ScanRecord [mAdvertiseFlags=6, mServiceUuids=[00035b03-58e6-07dd-021a-08123a000300], mManufacturerSpecificData={}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=BC123456], mRssi=-33, mTimestampNanos=11047193861813}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-27, mTimestampNanos=11047311873288}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=22:87:80:A8:20:96, mScanRecord=ScanRecord [mAdvertiseFlags=-1, mServiceUuids=null, mManufacturerSpecificData={6=[1, 9, 32, 0, 116, -32, 102, -44, 71, -59, 15, -102, 86, 81, 74, 117, 9, -91, 16, 124, -45, 97, -67, -19, 14, -70, -67]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-36, mTimestampNanos=11047313460202}
+
+01-08-2018_08:12:46   ScanMonitorFragment   ScanResult{mDevice=4A:8D:A3:A5:05:DB, mScanRecord=ScanRecord [mAdvertiseFlags=26, mServiceUuids=null, mManufacturerSpecificData={76=[12, 14, 0, -110, 116, 127, 119, -82, -32, 50, 18, -28, 88, 16, -122, -91, 16, 5, 11, 16, 13, 43, -113]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-26, mTimestampNanos=11047376875729}
+
+01-08-2018_08:12:47   ScanMonitorFragment   ScanResult{mDevice=38:60:E2:C6:FC:68, mScanRecord=ScanRecord [mAdvertiseFlags=-1, mServiceUuids=null, mManufacturerSpecificData={6=[1, 9, 32, 2, 60, 18, -57, 32, 1, 77, -36, 42, -98, 87, 9, 3, 59, 42, -106, 28, 10, -92, 109, 20, 107, -26, -103]}, mServiceData={}, mTxPowerLevel=-2147483648, mDeviceName=null], mRssi=-46, mTimestampNanos=11047432234616}
+

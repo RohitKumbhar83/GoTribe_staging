@@ -1,0 +1,9 @@
+
+{
+  "cronAutopay": "http://gotribe.rnf.tech/memberRegistration/cronAutopay",
+  "cronPayroll": "http://gotribe.rnf.tech/memberRegistration/cronPayroll",
+  "cronLicenseeFeeAmt": "http://gotribe.rnf.tech/memberRegistration/cronLicenseeFeeAmt",
+  "cronAutopayMembership": "http://gotribe.rnf.tech/memberRegistration/cronAutopayMembership",
+  "cronMembership": "http://gotribe.rnf.tech/memberRegistration/cronMembership",
+  "cronAutopays":"http://gotribe.rnf.tech/member-registration/cronAutopays"
+}

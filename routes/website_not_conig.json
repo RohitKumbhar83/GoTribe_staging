@@ -1,0 +1,10 @@
+
+{
+  "cronMembership": "http://app.gotribefit.com/memberRegistration/cronMembership",
+  "cronAutopay": "http://app.gotribefit.com/memberRegistration/cronAutopay",
+  "cronAutopayOldClient":"http://app.gotribefit.com/memberRegistration/cronAutopayOldClient",
+  "cronAutopayMembership": "http://app.gotribefit.com/memberRegistration/cronAutopayMembership",
+  "cronLicenseeFeeAmt": "http://app.gotribefit.com/memberRegistration/cronLicenseeFeeAmt",
+  "cronPayroll": "http://app.gotribefit.com/memberRegistration/cronPayroll",
+  "cronEmail": "ashok.singh@rnf.tech, jameel.ahmad@rnf.tech, vikas.kohli@rnf.tech"
+}

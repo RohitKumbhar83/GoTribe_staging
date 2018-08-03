@@ -1,0 +1,629 @@
+{
+  "db_error_0001":{
+    "status_code":1,
+    "message":"Database/SQL Error"
+  },
+  "wrong_string":{
+    "status_code":1,
+    "message":"Wrong String"
+  },
+  "raw_data_missing":{
+    "status_code":1,
+    "message":"Raw Data not found"
+  },
+  "query_string_missing":{
+    "status_code":1,
+    "message":"Query String Data not found"
+  },
+  "get_params_missing":{
+    "status_code":1,
+    "message":"Some Get Parameters are missing"
+  },
+  "no_data_found":{
+    "status_code":1,
+    "message":"No data found"
+  },
+  "error_occur":{
+    "status_code":1,
+    "message":"Error"
+  },
+  "other_than_email":{
+    "status_code":1,
+    "message":"Please sign using email or hit login api"
+  },
+  "no_fb_gmail":{
+    "status_code":1,
+    "message":"Please login via facebook or gmail only"
+  },
+  "reg_code_0001":{
+    "status_code":1,
+    "message":"Error"
+  },
+  "activated":{
+    "status_code":0,
+    "activated":1,
+    "message":"Your account has been activated successfully."
+  },
+  "reg_code_0000":{
+    "status_code":0,
+    "message":"Your account has been created successfully."
+  },
+  "not_activated":{
+    "status_code":0,
+    "activated":0,
+    "message":"Your account has been created successfully. Please verify the OTP sent to your registered email."
+  },
+  "user_exists":{
+    "status_code":1,
+    "message":"This email id is already registered."
+  },
+  "email_not_found":{
+    "status_code":1,
+    "message":"Email Not Found"
+  },
+  "email_not_valid":{
+    "status_code":1,
+    "message":"Email Not Valid"
+  },
+  "date_not_valid":{
+    "status_code":1,
+    "message":"Date Not Valid"
+  },
+  "tokenpass_not_found":{
+    "status_code":1,
+    "message":"Token Not Found"
+  },
+  "newtokenpass_not_found":{
+    "status_code":1,
+    "message":"New Token Not Found"
+  },
+  "otp_not_found":{
+    "status_code":1,
+    "message":"OTP Not Found"
+  },
+  "not_able_register":{
+    "status_code":1,
+    "message":" Error! Not able to register"
+  },
+  "not_able_measurement":{
+    "status_code":1,
+    "message":" User Registered but measurement not added"
+  },
+  "userId_not_found":{
+    "status_code":1,
+    "message":"User Id Not Found"
+  },
+  "measureHistId_not_found":{
+    "status_code":1,
+    "message":"Measurement History Id Not Found"
+  },
+  "userWorkoutId_not_found":{
+    "status_code":1,
+    "message":"User Workout Id Not Found"
+  },
+  "workoutDate_not_found":{
+    "status_code":1,
+    "message":"Workout Date Not Found"
+  },
+  "goalId_not_found":{
+    "status_code":1,
+    "message":"Goal Id Not Found"
+  },
+  "scheduleId_not_found":{
+    "status_code":1,
+    "message":"Schedule Id Not Found"
+  },
+  "nutritionId_not_found":{
+    "status_code":1,
+    "message":"Nutrition Id Not Found"
+  },
+  "roleId_not_found":{
+    "status_code":1,
+    "message":"Role Id Not Found"
+  },
+  "uploadType_not_found":{
+    "status_code":1,
+    "message": "Pic Upload type not Found."
+  },
+  "nutritionDate_not_found":{
+    "status_code":1,
+    "message":"Nutrition Date Not Found"
+  },
+  "login_code_0001":{
+    "status_code":1,
+    "message":"Error"
+  },
+  "login_code_0000":{
+    "status_code":0,
+    "activated":1,
+    "message":"Login Successfully"
+  },
+  "no_user_found":{
+    "status_code":1,
+    "message":"This email is not registered with us."
+  },
+  "password_error":{
+    "status_code":1,
+    "message":"Please verify your password."
+  },
+  "otp_generated":{
+    "status_code":0,
+    "activated":0,
+    "message":"Your OTP has been generated."
+  },
+  "otp_not_matched":{
+    "status_code":1,
+    "message":"The OTP you have entered do not match."
+  },
+  "otp_not_number":{
+    "status_code":1,
+    "message":"OTP should be number."
+  },
+  "user_activated_login":{
+    "status_code":0,
+    "activated":1,
+    "activated":1,
+    "message":"Activated. user login successfully"
+  },
+  "pass_recovered_mail":{
+    "status_code":0,
+    "message":"New Password Link has been sent to your registered email."
+  },
+  "pass_recovered":{
+    "status_code":0,
+    "message":"Password Recovered Successfully."
+  },
+
+  "pass_upd_code_0001":{
+    "status_code":1,
+    "message":"Password Not Matched/Error"
+  },
+  "pass_updated":{
+    "status_code":0,
+    "message":"Password Updated Successfully."
+  },
+  "pass_token_not_generated":{
+    "status_code":1,
+    "message":"Please generate your forgot password link url."
+  },
+  "pass_token_not_found":{
+    "status_code":1,
+    "message":"Reset Password Token Not Found."
+  },
+  "pass_token_not_match":{
+    "status_code":1,
+    "message":"Reset Password token Not Match."
+  },
+  "forgot_pass_done":{
+    "status_code":0,
+    "message":"Your password changed successfully. Please log in with new credentials."
+  },
+  "pass_upd_code_0002":{
+    "status_code":2,
+    "message":"No data found"
+  },
+  "old_new_pass_same":{
+    "status_code":1,
+    "message":"Old and New Passwords can't be Same."
+  },
+  "pass_not_match":{
+    "status_code":1,
+    "message":"Your Password not match."
+  },
+  "use_social_login":{
+    "status_code":1,
+    "message":"Please use your facebook and gmail to login."
+  },
+  "baseline_measure_added":{
+    "status_code":0,
+    "message":"Baseline Measurement Added Successfully."
+  },
+  "baseline_measure_data":{
+    "status_code":0,
+    "message":"Baseline Measurement Data."
+  },
+  "no_baseline_measure":{
+    "status_code":1,
+    "message":"No Baseline Measurement Data."
+  },
+  "baseline_measure_updated":{
+    "status_code":0,
+    "message":"Baseline Measurement Updated Successfully."
+  },
+  "user_profile_updated":{
+    "status_code":0,
+    "message":"User Profile has been Updated Successfully."
+  },
+  "user_profile_data":{
+    "status_code":0,
+    "message":"User Profile Data."
+  },
+  "no_user_profile":{
+    "status_code":1,
+    "message":"No User Profile Data."
+  },
+  "measure_history_data":{
+    "status_code":0,
+    "message":"Measurement History Data."
+  },
+  "no_measure_history":{
+    "status_code":1,
+    "message":"No Measurement History Data for that id."
+  },
+  "measure_history_added":{
+    "status_code":0,
+    "message":"Measurement History Added Successfully."
+  },
+  "measure_history_updated":{
+    "status_code":0,
+    "message":"Measurement History Updated Successfully."
+  },
+  "measure_history_deleted":{
+    "status_code":0,
+    "message":"Measurement History Deleted Successfully."
+  },
+  "user_workout_data":{
+    "status_code":0,
+    "message":"User Workout Data."
+  },
+  "no_user_workout":{
+    "status_code":1,
+    "message":"No User Workout Data for that id."
+  },
+  "no_user_workout_date":{
+    "status_code":1,
+    "message":"No User Workout Data for that date."
+  },
+  "user_workout_added":{
+    "status_code":0,
+    "message":"User Workout Added Successfully."
+  },
+  "user_workout_updated":{
+    "status_code":0,
+    "message":"User Workout Updated Successfully."
+  },
+  "user_workout_deleted":{
+    "status_code":0,
+    "message":"User Workout Deleted Successfully."
+  },
+  "user_goal_data":{
+    "status_code":0,
+    "status_code":0,
+    "message":"User Goal Data."
+  },
+  "user_goalid_data":{
+    "status_code":0,
+    "message":"Single Goal Data."
+  },
+  "no_active_finish_goal":{
+    "status_code":1,
+    "message":"No Active or Finished Goals."
+  },
+  "no_goal":{
+    "status_code":1,
+    "message":"No  User Goal Data."
+  },
+  "no_user_goal":{
+    "status_code":1,
+    "message":"No User Goal Data for that id."
+  },
+  "user_goal_added":{
+    "status_code":0,
+    "message":"User Goal Added Successfully."
+  },
+  "user_goal_updated":{
+    "status_code":0,
+    "message":"User Goal Updated Successfully."
+  },
+  "user_goal_deleted":{
+    "status_code":0,
+    "message":"User Goal Deleted Successfully."
+  },
+  "no_data_found_update":{
+    "status_code":0,
+    "message":"No data to update"
+  },
+  "no_data_found_save":{
+    "status_code":0,
+    "message":"No data to save"
+  },
+  "user_cal_info":{
+    "status_code":0,
+    "message":"Calendar Information"
+  },
+  "workout_info_from_cal":{
+    "status_code":0,
+    "message":"Workout Information from Calendar."
+  },
+  "monitor_IP_saveUpdate":{
+    "status_code":0,
+    "message":"Monitor Fields Updated Successfully."
+  },
+  "report_issue_raised":{
+    "status_code":0,
+    "message":"An issue has been raised."
+  },
+  "user_referred":{
+    "status_code":0,
+    "message":"A user referred successfully."
+  },
+  "user_already_referred":{
+    "status_code":1,
+    "message":"You already referred to this email id."
+  },
+  "no_overhead_squat":{
+    "status_code":1,
+    "message":"No Overhead Squat Data."
+  },
+  "no_testResult":{
+    "status_code":1,
+    "message":"Test Result Data Not Found."
+  },
+  "overhead_squat_data":{
+    "status_code":0,
+    "message":"Overhead Squat Data."
+  },
+  "overhead_squat_added":{
+    "status_code":0,
+    "message":"Overhead Squat Added Successfully."
+  },
+  "overhead_squat_updated":{
+    "status_code":0,
+    "message":"Overhead Squat Updated Successfully."
+  },
+  "no_client_data":{
+    "status_code":0,
+    "message":"No clients/member found."
+  },
+  "client_data":{
+    "status_code":0,
+    "message":"Clients/member found."
+  },
+  "no_client_data_name":{
+    "status_code":0,
+    "message":"No clients/member found for searched name."
+  },
+  "no_client_data_status":{
+    "status_code":0,
+    "message":"No clients/member found for that client status."
+  },
+  "no_client_name_status":{
+    "status_code":0,
+    "message":"No clients/member found for that client status with searched name so far."
+  },
+  "latest_measure_data":{
+    "status_code":0,
+    "message":"Last Measurement data you added."
+  },
+  "user_monitor_data":{
+    "status_code":0,
+    "message":"User Monitor Data."
+  },
+  "del_monitorData":{
+    "status_code":0,
+    "message":"Monitor Data Removed."
+  },
+  "profile_squat_baseline":{
+    "status_code":0,
+    "message":"Profile, Overhead Squat and Baseline Data."
+  },
+  "no_role_name":{
+    "status_code":1,
+    "message":"User Role Name not saved."
+  },
+  "notification_added":{
+    "status_code":0,
+    "message":"Notification added."
+  },
+  "notification_updated":{
+    "status_code":0,
+    "message":"Notification Updated."
+  },
+  "hit_notification_update":{
+    "status_code":1,
+    "message":"Hit update api."
+  },
+  "view_schedule_list":{
+    "status_code":0,
+    "message":"View Schedules."
+  },
+  "no_schedule_list":{
+    "status_code":0,
+    "message":"No schedules found."
+  },
+  "not_subscribe_sgt":{
+    "status_code":1,
+    "message":"Please Subscribe `Small Group Training(SGT)` To Enroll This Class."
+  },
+  "subscription_ended":{
+    "status_code":1,
+    "message":"You can not enroll this shcedule as your membership ended."
+  },
+  "class_capacity_exceed":{
+    "status_code":1,
+    "message":"Class exceeded its capacity."
+  },
+  "monthly_limit_exceed":{
+    "status_code":1,
+    "message":"Exceeded monthly limit."
+  },
+  "weekely_limit_exceed":{
+    "status_code":1,
+    "message":"Exceeded weekely limit."
+  },
+  "not_able_enroll":{
+    "status_code":1,
+    "message":"Not able to enroll."
+  },
+  "enroll":{
+    "status_code":0,
+    "message":"Success! Enrolled Class."
+  },
+  "no_record_found":{
+    "status_code":1,
+    "message":"No record found."
+  },
+  "superadmin_not_cancel":{
+    "status_code":1,
+    "message":"Admin cannot cancel SGT."
+  },
+  "admin_cannot_cancel":{
+    "status_code":1,
+    "message":"Admin cannot cancel."
+  },
+  "cancel_class_already_taken":{
+    "status_code":1,
+    "message":"You can't cancel class that already taken."
+  },
+  "not_before_12hours":{
+    "status_code":1,
+    "message":"Unable to cancel the class. All the cancellations would be done 12Hrs prior to it's schedule time."
+  },
+  "enroll_already_class":{
+    "status_code":1,
+    "message":"You can't enroll class that already enrolled."
+  },
+  "no_start_time":{
+    "status_code":1,
+    "message":"Schedule start time not available."
+  },
+  "sgt_schedule_cancel":{
+    "status_code":0,
+    "message":"SGT Schedule cancel successfully."
+  },
+  "any_schedule_cancel":{
+    "status_code":0,
+    "message":"Your Schedule cancel successfully."
+  },
+  "nutrition_added":{
+    "status_code":0,
+    "message":"Nutrition data added successfully."
+  },
+  "nutrition_updated":{
+    "status_code":0,
+    "message":"Nutrition data updated successfully."
+  },
+  "no_nutrition":{
+    "status_code":1,
+    "message":"No Nutrition Data for that id."
+  },
+  "headers_missing":{
+    "status_code":1,
+    "message": "Headers not found."
+  },
+  "accessToken_error":{
+    "status_code":1,
+    "message": "Please login to generate your access token."
+  },
+  "accessToken_not_match":{
+    "status_code":1,
+    "message": "Access Token not matched."
+  },
+  "ios_not_found":{
+    "status_code":1,
+    "message": "Unauthenticated mobile user"
+  },
+  "ios_string_error":{
+    "status_code":1,
+    "message": "User type should be string."
+  },
+  "push_not_history":{
+    "status_code":0,
+    "message": "Push Notification history data."
+  },
+  "date_data_missing":{
+    "status_code":1,
+    "message": "Date Data not found."
+  },
+  "roleFiter_error":{
+    "status_code":1,
+    "message": "Role Filter must be an integer."
+  },
+  "roleFiter_iderror":{
+    "status_code":1,
+    "message": "Role Filter id not matched"
+  },
+  "uploadType_not_matched":{
+    "status_code":1,
+    "message": "Upload Type not matched."
+  },
+  "file_uplpoad_error":{
+    "status_code":1,
+    "message": "Unable to file upload"
+  },
+  "profile_pic_upload":{
+    "status_code":0,
+    "message": "Profile Pic Upload Successfully."
+  },
+  "measure_pic_upload":{
+    "status_code":0,
+    "message": "Measurement Pic Upload Successfully."
+  },
+  "no_user_nutrition":{
+     "status_code":1,
+     "message":"No User Nutrition Data for that id."
+   },
+  "no_user_nutrition_date":{
+     "status_code":1,
+     "message":"No User Nutrition Data for that date."
+   },
+  "user_nutrition_data":{
+    "status_code":0,
+    "message":"User Nutrition Data."
+  },
+  "referred_own_email":{
+    "status_code":1,
+    "message":"You cannot referred to your own email id."
+  },
+  "purchase_membership":{
+    "status_code":1,
+    "message":"You are not authorize to refer until you purchase membership."
+  },
+  "already_register_user":{
+    "status_code":1,
+    "message":"You can't refer to user who already registered."
+  },
+  "roleid_int_error":{
+    "status_code":1,
+    "message": "Role Id must be an integer."
+  },
+  "roleid_permission_err":{
+    "status_code":1,
+    "message": "You Do Not Have Sufficient Permissions to View This Record."
+  },
+  "roleid_error":{
+    "status_code":1,
+    "message": "Something went wrong with roleid."
+  },
+  "no_my_paycheck":{
+    "status_code":1,
+    "message": "No My Paycheck Data."
+  },
+  "my_paycheck_data":{
+    "status_code":0,
+    "message":"My Paycheck Data."
+  },
+  "no_payroll_found_id":{
+    "status_code":0,
+    "message":"No payroll Found for that id."
+  },
+  "my_payroll_data_id":{
+    "status_code":0,
+    "message":"My Payroll Data for that id."
+  },
+  "no_payroll_data":{
+    "status_code":0,
+    "message":"No payroll Found."
+  },
+  "payroll_data":{
+    "status_code":0,
+    "message":"My payroll Data."
+  },
+  "account_not_activated":{
+    "status_code":0,
+    "message":"You are not an active client. Please contact adminstrator."
+  }
+
+
+
+}
